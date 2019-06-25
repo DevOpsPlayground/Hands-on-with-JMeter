@@ -31,13 +31,12 @@ We can clear existing results to clean up. The icon for this is two brooms over 
 
 ## Multi Threading
 Click the first Thread Group to view its properties. 
-Change the following:
-Number of threads: 5 
-Ramp-up period: 10
 
+| Number of threads | Ramp-up period |
+|-------------------|----------------|
+| 5                 | 10             |
 
-Run again
-Check the results
+Run again and check the results
 
 # Summary Report
 JMeter – different types of listener
