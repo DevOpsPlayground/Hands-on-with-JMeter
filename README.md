@@ -1,5 +1,5 @@
 # Hands-on-with-JMeter
-
+Welcome the DevOps Playground! The [190625 DevOps Playground Jmeter Boris Levanov.pptx](Workshop Presentation Slides) are located within this repository.\
 In order to install Jmeter locally, please follow the instructions found on the official [JMeter Website](https://jmeter.apache.org/usermanual/get-started.html).\
 The workshop consists of four stages.\
 The *.jmx JMeter files that contain the end results of the stages are available in the [Workshop Stages Folder](https://github.com/DevOpsPlayground/Hands-on-with-JMeter/tree/master/Workshop%20Stages)
